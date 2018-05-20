@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="arena">
+        <item>R.drawable.ic_arena_01</item>
+        <item>R.drawable.ic_arena_02</item>
+        <item>R.drawable.ic_arena_03</item>
+        <item>R.drawable.ic_arena_04</item>
+        <item>R.drawable.ic_arena_05</item>
+        <item>R.drawable.ic_arena_06</item>
+    </array>
+</resources>

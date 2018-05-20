@@ -1,0 +1,2 @@
+include ':gdf', ':facebook'
+project(':facebook').projectDir = new File('gdf/libs/facebook')
